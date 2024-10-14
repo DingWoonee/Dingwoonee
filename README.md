@@ -1,4 +1,4 @@
-## 가보자고 Let's Go!
+## 가보자고
 - 🌱 **I’m currently learning ...**
   - Spring Boot
   - OS, 컴구, 컴네
