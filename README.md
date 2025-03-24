@@ -1,12 +1,4 @@
 ## 가보자고
-- 🌱 **I’m currently learning ...**
-  - Spring Boot
-  - OS, 컴구, 컴네
-
-- 🔭 **I’m currently working on ...**
-  - 드림학기제 - ghOSt 프레임워크로 사용자 영역에서 O(1) 스케줄링 알고리즘 적용하기
-  - 졸업프로젝트 - Spring과 MySQL로 사용자가 원하는 조건의 매물을 찾아주는 API 서버 만들기
-  - 쿠스토랑 - web과 api 서버를 동기들과 개발하였습니다. [쿠스토랑 웹 사이트](https://kustaurant.com)
 
 - 💻 **I have experience with ...**</br>
 
