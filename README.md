@@ -8,9 +8,9 @@
   - email: slm0523@naver.com
 
 - 🕰️ **I have completed ...**
-  - 2022.01 102정보통신단 전역 (2군단 본부 망 연결 업무)
-  - 2025.02 건국대학교 컴퓨터공학부 졸업
   - 2025.06 멋쟁이사자처럼 백엔드 부트캠프 플러스 4기 수료
+  - 2025.02 건국대학교 컴퓨터공학부 졸업
+  - 2022.01 2군단 102정보통신단 전역
 <!--
 **DingWoonee/Dingwoonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
